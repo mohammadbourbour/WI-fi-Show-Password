@@ -4,7 +4,7 @@ This is a Python script that retrieves and displays saved Wi-Fi passwords on Win
 
 Installation
 
-To use this script, you'll need Python 3 and the termcolor and pyfiglet libraries installed on your system. To install these libraries, you can use pip by running the following command:
+To use this script, you'll need Python 3 and the termcolor , subprocess and pyfiglet libraries installed on your system. To install these libraries, you can use pip by running the following command:
 
 pip install -r requirements.txt
 
