@@ -1,5 +1,5 @@
 """
-This File will show the saved Wi-Fi password's on target system
+This Script will show the saved Wi-Fi password's on target system
 
 Made by : Mohammad boorboor
 Email : m.boorboor315@gmail.com
@@ -75,4 +75,4 @@ def show_wifi_passwords():
 
 if __name__ == '__main__':
     show_wifi_passwords()
-    input()
+    
