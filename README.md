@@ -22,3 +22,11 @@ Once the script has finished running, it will display a table with the SSID and 
 Disclaimer
 
 This script is intended for educational purposes only and should only be used on systems for which you have permission to retrieve Wi-Fi passwords. The author is not responsible for any unauthorized or illegal use of this script.
+
+Donations
+
+If you found this script helpful and would like to support the developer, you can send a donation to the following wallet address:
+
+Ethereum: 0xD284D48F4a380140ad135B0A21C7030581C2CA34
+
+Your donations are greatly appreciated and will help support the development of this and other open-source projects. Thank you for your support!
