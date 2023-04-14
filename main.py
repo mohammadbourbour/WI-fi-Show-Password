@@ -14,7 +14,7 @@ import pyfiglet
 
 
 def show_wifi_passwords():
-    # get user information
+    # My Informations
     email = "m.boorboor315@gmail.com"
     name = "Mohammad boorboor"
 
@@ -72,7 +72,7 @@ def show_wifi_passwords():
     # prompt user to exit
     input("\nPress Enter to exit...")
 
-
+#Execute the program
 if __name__ == '__main__':
     show_wifi_passwords()
     
