@@ -13,7 +13,7 @@ Usage
 To run the script, open a command prompt or terminal window and navigate to the directory containing the script file. Then, run the following command:
 
 
-python wifi_passwords.py
+python main.py
 
 The script will display a banner with the name "Wi-Fi Show", along with information about the program and the author's name and email address. You'll then be prompted to press Enter to proceed with the password retrieval process.
 
